@@ -1,6 +1,6 @@
 # CleanPath - Intelligent File Organization Script
 
-Short description or tagline about CleanPath.
+Clean your paths quickly
 
 ## Table of Contents
 
