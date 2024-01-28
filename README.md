@@ -42,7 +42,14 @@ Make sure you have Python installed on your machine.
     ```
 
 ## Usage
-
+Option 1:
 Run CleanPath with the following command:
-```bash
-python cleanpath.py
+  ```bash
+  python cleanpath.py
+  ```
+
+Option 2:
+Use the Executable
+Open the output folder in the CleanPath directory.
+
+Run the cleanpath.exe executable.
